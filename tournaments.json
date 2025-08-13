@@ -7,7 +7,7 @@
     "region": "NA East",
     "prizePool": "$1,500",
     "format": "Solo",
-    "image": "https://imgur.com/a/0WjqntV",
+    "image": "https://raw.githubusercontent.com/LBoyDubz/OGS-Unit/main/images/OGTournyImagepng3.png",
     "registerUrl": "https://discord.gg/NytBqAAss7"
   },
   {
@@ -18,7 +18,7 @@
     "region": "NA West",
     "prizePool": "$2,500",
     "format": "Duos",
-    "image": "https://imgur.com/a/0WjqntV",
+    "image": "https://raw.githubusercontent.com/LBoyDubz/OGS-Unit/main/images/OGTournyImagepng3.png",
     "registerUrl": "https://discord.gg/NytBqAAss7"
   }
 ]
