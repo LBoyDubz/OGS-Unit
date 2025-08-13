@@ -1,0 +1,24 @@
+[
+  {
+    "id": "cash-cup-12",
+    "title": "OG Cash Cup #12",
+    "date": "2025-08-24",
+    "time": "8:00 PM EST",
+    "region": "NA East",
+    "prizePool": "$1,500",
+    "format": "Solo",
+    "image": "https://imgur.com/a/0WjqntV",
+    "registerUrl": "https://discord.gg/NytBqAAss7"
+  },
+  {
+    "id": "duo-champs",
+    "title": "Duo Championship",
+    "date": "2025-09-01",
+    "time": "7:00 PM EST",
+    "region": "NA West",
+    "prizePool": "$2,500",
+    "format": "Duos",
+    "image": "https://imgur.com/a/0WjqntV",
+    "registerUrl": "https://discord.gg/NytBqAAss7"
+  }
+]
