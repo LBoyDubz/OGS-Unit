@@ -8,7 +8,7 @@
     "format": "Solo",
     "image": "https://raw.githubusercontent.com/LBoyDubz/OGS-Unit/main/images/OGTournyImagepng3.png",
     "registerUrl": "https://discord.gg/NytBqAAss7"
-    "startTime": "2025-08-22T00:30:00Z",  // ISO 8601
+    "startTime": "2025-08-22T00:30:00Z",
   },
   {
     "id": "duo-champs",
@@ -20,6 +20,6 @@
     "format": "Duos",
     "image": "https://raw.githubusercontent.com/LBoyDubz/OGS-Unit/main/images/OGTournyImagepng3.png",
     "registerUrl": "https://discord.gg/NytBqAAss7"
-    "startTime": "2025-08-22T00:30:00Z",  // ISO 8601
+    "startTime": "2025-08-22T00:30:00Z",
   }
 ]
