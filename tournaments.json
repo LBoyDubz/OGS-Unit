@@ -1,4 +1,5 @@
-   {
+  [
+ {
     "id": "cash-cup",
     "title": "OG Cash Cup",
     "date": "2025-8-19",
@@ -22,4 +23,4 @@
     "registerUrl": "https://discord.gg/NytBqAAss7"
     "startTime": "2025-08-22T00:30:00Z",
   }
-}
+]
