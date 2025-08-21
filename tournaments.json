@@ -1,15 +1,15 @@
-  [
- {
+[
+  {
     "id": "cash-cup",
     "title": "OG Cash Cup",
-    "date": "2025-8-19",
+    "date": "2025-08-19",
     "time": "8:00 PM CST",
     "region": "NA Central",
     "prizePool": "$1,000,000,000",
     "format": "Solo",
     "image": "https://raw.githubusercontent.com/LBoyDubz/OGS-Unit/main/images/OGTournyImagepng3.png",
-    "registerUrl": "https://discord.gg/NytBqAAss7"
-    "startTime": "2025-08-22T00:30:00Z",
+    "registerUrl": "https://discord.gg/NytBqAAss7",
+    "startTime": "2025-08-22T00:30:00Z"
   },
   {
     "id": "duo-champs",
@@ -20,7 +20,7 @@
     "prizePool": "$100,000,000",
     "format": "Duos",
     "image": "https://raw.githubusercontent.com/LBoyDubz/OGS-Unit/main/images/OGTournyImagepng3.png",
-    "registerUrl": "https://discord.gg/NytBqAAss7"
-    "startTime": "2025-08-22T00:30:00Z",
+    "registerUrl": "https://discord.gg/NytBqAAss7",
+    "startTime": "2025-08-22T00:30:00Z"
   }
 ]
