@@ -1,5 +1,4 @@
 [
-  {"region":"NA","status":"online","discordUrl":"https://discord.gg/8HZgQ3EQkS"},
-  {"region":"EU","active":,"online":"https://discord.gg/8HZgQ3EQkS"}
+  { "region": "NA", "active": true,  "discordUrl": "https://discord.gg/8HZgQ3EQkS" },
+  { "region": "EU", "active": false, "discordUrl": "https://discord.gg/8HZgQ3EQkS" }
 ]
-
